@@ -10,5 +10,11 @@
 
 <p>Te presento un repositorio donde podras ver algunos de mis proyectos que he realizado.</p>
 <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/03/lenguajes_programacion_odiados_amados_2019.jpg?itok=N85E5HTT">
+<script type="text/javascript">
+	
+	console.log("Bienvenido a camltasks, repositorio creado por carlos maldonado")
+	;
+
+</script>
 </body>
 </html>
